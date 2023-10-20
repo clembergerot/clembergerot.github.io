@@ -24,11 +24,11 @@ description: >- # this means to ignore newlines until "baseurl:"
   Hi! I am Clemence, a PhD student working on collective decision-making at Humboldt University Berlin. My research is funded by the Einstein Center for Neurosciences at Charite. I am interested in modelling the impact of cognitive biases on decision-making in social scenarios, such as collaboration in the face of climate change.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: https://clembergerot.github.io # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
+# twitter_username: jekyllrb
 github_username:  clembergerot
 
 # Build settings
-theme: minima
+theme: midnight
 plugins:
   - jekyll-feed
 
