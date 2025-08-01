@@ -3,8 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: default
-# title: "PAGE-TITLE"
-# permalink: /URL-PATH
 ---
+# Welcome!
 
-Website under construction. See you soon!
+I am Clémence, currently a PhD student at Humboldt University Berlin. As part of the [Romanczuk Lab](http://lab.romanczuk.de/) and the [Barfuss Lab](https://barfusslab.github.io/), I investigate the impact of heuristics on collective learning dynamics. To do so, I use tools from *reinforcement learning*, *agent-based modeling*, and *complex systems science*. 
