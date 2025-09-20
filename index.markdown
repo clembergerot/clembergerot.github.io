@@ -4,6 +4,7 @@
 
 layout: default
 ---
+[About](about.markdown)
 
 [<img src="assets/images/marzahn1_framed.png">](https://www.publicartwiki.org/wiki/Arbeit_f%C3%BCr_das_Gl%C3%BCck_des_Menschen;_Walter_Womacka)
 
