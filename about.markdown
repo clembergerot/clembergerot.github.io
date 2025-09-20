@@ -3,7 +3,7 @@ layout: default
 title: About
 permalink: /about/
 ---
-[<img src="./assets/images/karlmarxallee_framed.png">](https://bildhauerei-in-berlin.de/bildwerk/aus-dem-leben-der-voelker-der-sowjetunion-10575/)
+<img src="assets/images/karlmarxallee_framed.png">
 
 # About
 
