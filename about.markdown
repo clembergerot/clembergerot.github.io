@@ -3,7 +3,7 @@ layout: default
 title: About
 permalink: /about/
 ---
-<img src="assets/images/karlmarxallee_framed.png">
+[<img src="assets/images/bolzano.png">](https://en.wikipedia.org/wiki/Chiesa_dei_Domenicani)
 
 # About
 
