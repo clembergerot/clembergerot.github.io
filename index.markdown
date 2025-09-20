@@ -5,8 +5,7 @@
 layout: default
 ---
 
-![A mosaic by Walter Womacka in Marzahn, Berlin](/assets/images/marzahn1_framed.png)
-<small>One of my favorite mosaics in Berlin: "Arbeit für das Glück des Menschen" by Walter Womacka, 1988-89.</small>
+[<img src="assets/images/marzahn1_framed.png">](https://www.publicartwiki.org/wiki/Arbeit_f%C3%BCr_das_Gl%C3%BCck_des_Menschen;_Walter_Womacka)
 
 # Welcome!
 
