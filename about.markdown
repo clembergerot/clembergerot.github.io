@@ -3,8 +3,6 @@ layout: default
 title: About
 permalink: /about/
 ---
-[<img src="./assets/images/bolzano.png">](https://en.wikipedia.org/wiki/Chiesa_dei_Domenicani)
-
 # About
 
 Currently, I am a PhD candidate at Humboldt-University Berlin, where I conduct my research under the supervision of Pawel Romanczuk ([Romanczuk Lab](http://lab.romanczuk.de/)) and Wolfram Barfuss ([Barfuss Lab](https://barfusslab.github.io/), University of Bonn). My work aims at better understanding the influence of cognitive heuristics, such as optimism and confirmation biases, on multi-agent learning dynamics. To do so, I use tools from *reinforcement learning*, *agent-based modeling*, *complex systems*, and *game theory*. Between 2021 and 2024, this research was supported by a fellowship from the [Einstein Center for the Neurosciences](https://www.ecn-berlin.de/home.html). 
