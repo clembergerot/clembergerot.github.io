@@ -39,6 +39,8 @@ nav_pages:
     url: /
   - title: About
     url: /about/
+  - title: Talks & Publications
+    url: /outreach/
 
 # Exclude from processing.
 # The following items will not be processed, by default.
