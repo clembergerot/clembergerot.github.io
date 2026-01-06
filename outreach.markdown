@@ -7,6 +7,8 @@ permalink: /outreach/
 
 ## Conferences & invited talks
 
+10/2025. Guest lecture at **Forward College**, Berlin, Germany. Title: *Confirmation bias and polarization*. 
+
 09/2025. Poster presentation at the **Conference on Complex Systems 2025**, University of Siena, Italy. 
 *Bergerot, C., Romanczuk, P, & Barfuss, W. DDRL: A framework to study the influence of cognitive heuristics on collective learning dynamics.*
 
@@ -32,6 +34,8 @@ permalink: /outreach/
 *Bergerot, C., Barfuss, W., & Romanczuk, P. Influence of confirmation biases on collective decision-making.*
 
 ## Publications
+
+[NEW PREPRINT] Bergerot, C., Romanczuk, P., & Barfuss, W. (2025). Deterministic dynamics of distributional multi-agent reinforcement learning. *bioRxiv*, 2025-12.
 
 Bergerot, C., Barfuss, W., & Romanczuk, P. (2024). Moderate confirmation bias enhances decision-making in groups of reinforcement-learning agents. *PLOS Computational Biology*, 20(9), e1012404.
 
