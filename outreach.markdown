@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Talks & Publications
+title: Outreach
 permalink: /outreach/
 ---
-# Talks & Publications
+# Outreach
 
 ## Conferences & invited talks
 
@@ -32,11 +32,3 @@ permalink: /outreach/
 
 03/2023. Talk at the **DPG Spring Meeting of the Condensed Matter Section 2023**, Technische Universität Dresden, Germany.
 *Bergerot, C., Barfuss, W., & Romanczuk, P. Influence of confirmation biases on collective decision-making.*
-
-## Publications
-
-[NEW PREPRINT] Bergerot, C., Romanczuk, P., & Barfuss, W. (2025). Deterministic dynamics of distributional multi-agent reinforcement learning. *bioRxiv*, 2025-12.
-
-Bergerot, C., Barfuss, W., & Romanczuk, P. (2024). Moderate confirmation bias enhances decision-making in groups of reinforcement-learning agents. *PLOS Computational Biology*, 20(9), e1012404.
-
-Duriez, A., Bergerot, C., Cone, J. J., Roitman, M. F., & Gutkin, B. (2023). Homeostatic reinforcement theory accounts for sodium appetitive state and taste dependent dopamine responding. *Nutrients*, 15(4), 1015. 
