@@ -39,7 +39,9 @@ nav_pages:
     url: /
   - title: About
     url: /about/
-  - title: Talks & Publications
+  - title: Publications
+    url: /publications/
+  - title: Outreach
     url: /outreach/
 
 # Exclude from processing.
